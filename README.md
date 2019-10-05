@@ -6,9 +6,7 @@ Lightweight payment tools for WeChat.
 
 `go get github.com/rivettio/wxpay`
 
-### Usage
-
-demo:
+### Quick Start
 
 ```go
 package main
